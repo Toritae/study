@@ -24,3 +24,4 @@ HTTPS
 
 HTTP 통신하는 소켓 부분을 SSL or TLS 프로토콜로 대체.  
 즉, TCP와 직접 통신하는 것이 아닌 SSL과 통신후 SSL이 TCP와 통신한다.
+contract
